@@ -1,0 +1,10 @@
+
+train: ./dataset/train.txt
+val: ./dataset/val.txt
+test: ./dataset/test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['target']
